@@ -1,2 +1,0 @@
-# GuessingGame
-Lil project
